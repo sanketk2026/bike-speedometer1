@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bike Meter</string>
+    <!-- Address of your speedometer. Change it here if you ever use another one. -->
+    <string name="app_url">http://192.168.4.1/</string>
+</resources>
